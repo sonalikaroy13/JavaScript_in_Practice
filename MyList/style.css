@@ -1,0 +1,51 @@
+.container{
+    align-content: center;
+    margin: 40px auto;
+    padding: 10px;
+    border: 2px solid #ddd;
+    max-width: 700px;
+    background-color: #000;
+}
+
+#container2{
+    margin-left: 150px;
+}
+
+h2{
+    text-transform: uppercase;
+    font-family: cursive;
+    color: blue;
+    text-align: center;
+}
+
+span{
+    font-size: 0.8rem;
+    text-align: center;
+    margin: auto 10px;
+    color: red;
+    padding: 5px;
+    cursor: pointer;
+}
+
+td{
+    margin: auto;
+    text-align: center;
+    width: 340px;
+}
+
+td:first-child{
+    color: aliceblue;
+    overflow: hidden;
+    padding: 5px;
+}
+
+input{
+    margin: 20px 5px;
+    padding: 5px;
+    font-family: cursive;
+}
+
+#addNew {
+    background-color: crimson;
+    cursor: pointer;
+}
